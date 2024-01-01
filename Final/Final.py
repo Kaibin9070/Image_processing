@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#這傳錯的檔案
 import pydicom
 import matplotlib.pyplot as plt
 import numpy as np
